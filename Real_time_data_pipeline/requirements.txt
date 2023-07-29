@@ -1,0 +1,6 @@
+numpy==1.24.1
+pandas==1.5.2
+psycopg2==2.9.5
+pyodbc==4.0.35
+Requests==2.31.0
+SQLAlchemy==1.4.46
