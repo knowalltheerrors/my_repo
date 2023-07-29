@@ -1,0 +1,3 @@
+For confidentiality purposes username and password has been removed. You can type into your website,username, password information in order to start doing something.
+Of course, since user enters new website all the elements should change as well 
+Good Luck !
